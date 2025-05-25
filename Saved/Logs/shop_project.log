@@ -8004,3 +8004,819 @@ Sampler Limit: 32
 [2025.05.25-21.16.47:758][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.05.25-21.16.47:758][326]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
 [2025.05.25-21.16.52:108][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.25-21.18.05:818][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7772.574707
+[2025.05.25-21.18.06:818][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.18.06:818][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7773.241699, Update Interval: 329.684143
+[2025.05.25-21.21.05:290][291]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.05.25-21.23.12:573][992]LogEditorTransaction: Undo Move Node
+[2025.05.25-21.23.28:611][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.23.28:634][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.23.28:634][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.23.28:634][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.23.28:664][595]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.23.28:665][595]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player741053584C67341CF51329AF01ABFF93.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.23.28:671][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.654 ms (total: 2.82 sec)
+[2025.05.25-21.23.28:696][595]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.23.28:696][595]LogContentValidation: Enabled validators:
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.23.28:696][595]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.23.28:697][595]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.23.29:811][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.25-21.23.30:996][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.25-21.23.32:594][931]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.23.32:599][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.23.32:600][931]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.23.32:601][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001509s)
+[2025.05.25-21.23.32:601][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001537s)
+[2025.05.25-21.23.32:619][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.25-21.23.32:621][931]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.23.32:623][931]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2025.05.25-21.23.32:623][931]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.23.32:623][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.23.32:624][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.23.32:624][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.23.32:624][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.23.32:624][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.23.32:627][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.23.32:653][931]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.23.32:653][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.23.32:653][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.23.32:653][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.23.32:654][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.05.25-21.23.32:654][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.05.25-21.23.32:656][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.05.25-21.23.32:656][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.05.25-21.23.32:656][931]LogInit: FAudioDevice initialized with ID 49.
+[2025.05.25-21.23.32:656][931]LogAudio: Display: Audio Device (ID: 49) registered with world 'greybox'.
+[2025.05.25-21.23.32:656][931]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.05.25-21.23.32:682][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.23.32:682][931]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.23.32:682][931]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.23.32:683][931]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.23.32
+[2025.05.25-21.23.32:683][931]LogWorld: Bringing up level for play took: 0.000968
+[2025.05.25-21.23.32:685][931]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.05.25-21.23.32:693][931]PIE: Server logged in
+[2025.05.25-21.23.32:695][931]PIE: Play in editor total start time 0.096 seconds.
+[2025.05.25-21.23.43:883][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.23.43:883][644]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.23.43:884][644]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.23.43:888][644]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.23.43:888][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.23.43:891][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.23.43:897][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.23.43:921][644]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.05.25-21.23.43:921][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.05.25-21.23.43:923][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.05.25-21.23.43:929][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.25-21.23.43:956][645]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.05.25-21.23.54:186][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.23.54:217][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.23.54:217][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.23.54:217][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.23.54:247][830]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.23.54:247][830]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player512706A44C47F74FBDB0B5A07C2A237F.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.23.54:254][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.734 ms (total: 2.89 sec)
+[2025.05.25-21.23.54:286][830]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.23.54:286][830]LogContentValidation: Enabled validators:
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.23.54:286][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.23.54:286][830]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.23.54:915][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.25-21.23.55:274][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.25-21.23.56:173][ 11]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.23.56:178][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.23.56:179][ 11]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.23.56:180][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001578s)
+[2025.05.25-21.23.56:180][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001608s)
+[2025.05.25-21.23.56:203][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.25-21.23.56:215][ 11]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.23.56:217][ 11]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2025.05.25-21.23.56:218][ 11]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.23.56:218][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.23.56:218][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.23.56:218][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.23.56:218][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.23.56:218][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.23.56:220][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.23.56:244][ 11]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.23.56:244][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.23.56:244][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.23.56:244][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.23.56:245][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.05.25-21.23.56:245][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.05.25-21.23.56:247][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.05.25-21.23.56:247][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.05.25-21.23.56:247][ 11]LogInit: FAudioDevice initialized with ID 50.
+[2025.05.25-21.23.56:247][ 11]LogAudio: Display: Audio Device (ID: 50) registered with world 'greybox'.
+[2025.05.25-21.23.56:247][ 11]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.05.25-21.23.56:271][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.23.56:271][ 11]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.23.56:271][ 11]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.23.56:272][ 11]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.23.56
+[2025.05.25-21.23.56:273][ 11]LogWorld: Bringing up level for play took: 0.001167
+[2025.05.25-21.23.56:275][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.05.25-21.23.56:285][ 11]PIE: Server logged in
+[2025.05.25-21.23.56:289][ 11]PIE: Play in editor total start time 0.111 seconds.
+[2025.05.25-21.24.05:763][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.24.05:763][815]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.24.05:764][815]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.24.05:768][815]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.24.05:769][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.24.05:771][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.24.05:777][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.24.05:802][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.24.05:802][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.05.25-21.24.05:802][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.05.25-21.24.05:804][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.05.25-21.24.05:811][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.25-21.24.05:837][816]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.05.25-21.24.07:537][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8134.285645
+[2025.05.25-21.24.07:604][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.24.07:604][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8134.344238, Update Interval: 348.189331
+[2025.05.25-21.24.11:978][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.24.12:008][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.24.12:008][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.24.12:008][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.24.12:039][525]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.24.12:039][525]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player1D3BA6CF4CE0E68BD5A7D993779E14CB.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.24.12:045][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.268 ms (total: 2.96 sec)
+[2025.05.25-21.24.12:070][525]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.24.12:070][525]LogContentValidation: Enabled validators:
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.24.12:070][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.24.12:070][525]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.24.13:398][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.25-21.24.14:246][744]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.24.14:251][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.24.14:252][744]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.24.14:254][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001539s)
+[2025.05.25-21.24.14:254][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001566s)
+[2025.05.25-21.24.14:275][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.25-21.24.14:287][744]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.24.14:288][744]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2025.05.25-21.24.14:289][744]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.24.14:289][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.24.14:289][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.24.14:289][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.24.14:289][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.24.14:289][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.24.14:291][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.24.14:316][744]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.24.14:316][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.24.14:316][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.24.14:316][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.24.14:316][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2025.05.25-21.24.14:316][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2025.05.25-21.24.14:319][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2025.05.25-21.24.14:319][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2025.05.25-21.24.14:319][744]LogInit: FAudioDevice initialized with ID 51.
+[2025.05.25-21.24.14:319][744]LogAudio: Display: Audio Device (ID: 51) registered with world 'greybox'.
+[2025.05.25-21.24.14:319][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2025.05.25-21.24.14:347][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.24.14:347][744]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.24.14:347][744]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.24.14:348][744]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.24.14
+[2025.05.25-21.24.14:348][744]LogWorld: Bringing up level for play took: 0.000949
+[2025.05.25-21.24.14:351][744]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.05.25-21.24.14:360][744]PIE: Server logged in
+[2025.05.25-21.24.14:364][744]PIE: Play in editor total start time 0.112 seconds.
+[2025.05.25-21.24.20:053][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.24.20:053][225]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.24.20:054][225]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.24.20:058][225]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.24.20:059][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.24.20:061][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.24.20:067][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.24.20:090][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.24.20:090][225]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2025.05.25-21.24.20:090][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.05.25-21.24.20:092][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2025.05.25-21.24.20:098][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.05.25-21.24.20:123][226]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.05.25-21.27.53:129][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.25-21.27.53:989][956]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.27.53:994][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.27.53:994][956]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.27.53:996][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001479s)
+[2025.05.25-21.27.53:996][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001508s)
+[2025.05.25-21.27.54:018][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.25-21.27.54:029][956]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.27.54:030][956]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2025.05.25-21.27.54:031][956]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.27.54:031][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.27.54:031][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.27.54:031][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.27.54:031][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.27.54:031][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.27.54:033][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.27.54:058][956]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.27.54:058][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.27.54:058][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.27.54:058][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.27.54:059][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2025.05.25-21.27.54:059][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2025.05.25-21.27.54:061][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2025.05.25-21.27.54:061][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2025.05.25-21.27.54:061][956]LogInit: FAudioDevice initialized with ID 52.
+[2025.05.25-21.27.54:061][956]LogAudio: Display: Audio Device (ID: 52) registered with world 'greybox'.
+[2025.05.25-21.27.54:061][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2025.05.25-21.27.54:087][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.27.54:087][956]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.27.54:088][956]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.27.54:089][956]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.27.54
+[2025.05.25-21.27.54:089][956]LogWorld: Bringing up level for play took: 0.001073
+[2025.05.25-21.27.54:091][956]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.05.25-21.27.54:100][956]PIE: Server logged in
+[2025.05.25-21.27.54:104][956]PIE: Play in editor total start time 0.111 seconds.
+[2025.05.25-21.28.09:653][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.28.09:653][290]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.28.09:654][290]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.28.09:658][290]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.28.09:659][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.28.09:661][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.28.09:667][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.28.09:691][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.28.09:691][290]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2025.05.25-21.28.09:692][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.05.25-21.28.09:694][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2025.05.25-21.28.09:701][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.25-21.28.09:727][291]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.05.25-21.28.35:646][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.25-21.28.35:648][345]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Greybox/greybox' took 0.025
+[2025.05.25-21.28.35:649][345]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.28.35:649][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.28.35:649][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-21.28.35:678][345]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto6
+[2025.05.25-21.28.35:679][345]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player_Auto66B82681A4A12439211163FAA0A43857A.tmp' to '../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto6.uasset'
+[2025.05.25-21.28.35:684][345]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.05.25-21.29.10:710][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.25-21.29.11:836][614]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.29.11:842][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.29.11:842][614]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.29.11:843][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2025.05.25-21.29.11:843][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001579s)
+[2025.05.25-21.29.11:868][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.25-21.29.11:879][614]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.29.11:880][614]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2025.05.25-21.29.11:881][614]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.29.11:881][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.29.11:881][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.29.11:881][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.29.11:881][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.29.11:881][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.29.11:883][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.29.11:907][614]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.29.11:908][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.29.11:908][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.29.11:908][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.29.11:908][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2025.05.25-21.29.11:908][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2025.05.25-21.29.11:911][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2025.05.25-21.29.11:911][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2025.05.25-21.29.11:911][614]LogInit: FAudioDevice initialized with ID 53.
+[2025.05.25-21.29.11:911][614]LogAudio: Display: Audio Device (ID: 53) registered with world 'greybox'.
+[2025.05.25-21.29.11:911][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2025.05.25-21.29.11:940][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.29.11:940][614]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.29.11:940][614]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.29.11:941][614]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.29.11
+[2025.05.25-21.29.11:941][614]LogWorld: Bringing up level for play took: 0.001177
+[2025.05.25-21.29.11:944][614]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.05.25-21.29.11:953][614]PIE: Server logged in
+[2025.05.25-21.29.11:958][614]PIE: Play in editor total start time 0.116 seconds.
+[2025.05.25-21.29.34:133][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.29.34:133][368]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.29.34:134][368]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.29.34:138][368]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.29.34:138][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.29.34:141][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.29.34:148][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.29.34:173][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.29.34:173][368]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2025.05.25-21.29.34:173][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.05.25-21.29.34:175][368]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2025.05.25-21.29.34:181][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.25-21.29.34:207][369]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.05.25-21.30.13:561][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.30.13:586][ 75]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.30.13:586][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.30.13:586][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.30.13:617][ 75]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.30.13:617][ 75]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player1B80E36842C9356A4590F5A11299E05B.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.30.13:624][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.356 ms (total: 3.02 sec)
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: Enabled validators:
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.30.13:656][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.30.13:656][ 75]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.30.51:556][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8538.180664
+[2025.05.25-21.30.52:555][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.30.52:555][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8538.846680, Update Interval: 321.491760
+[2025.05.25-21.36.44:890][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8891.434570
+[2025.05.25-21.36.45:890][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.36.45:890][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8892.100586, Update Interval: 330.980560
+[2025.05.25-21.41.24:039][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.41.24:070][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.41.24:070][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.41.24:070][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.41.24:101][330]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.41.24:101][330]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player2F67FB0B431CF9673388CDBB657E7ACB.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.41.24:108][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.665 ms (total: 3.09 sec)
+[2025.05.25-21.41.24:139][330]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.41.24:139][330]LogContentValidation: Enabled validators:
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.41.24:139][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.41.24:139][330]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.41.25:504][486]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.41.25:510][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.41.25:510][486]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.41.25:511][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001676s)
+[2025.05.25-21.41.25:511][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001706s)
+[2025.05.25-21.41.25:536][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.05.25-21.41.25:538][486]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.41.25:540][486]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2025.05.25-21.41.25:541][486]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.41.25:541][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.41.25:541][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.41.25:541][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.41.25:541][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.41.25:541][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.41.25:543][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.41.25:568][486]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.41.25:569][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.41.25:569][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.41.25:569][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.41.25:569][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2025.05.25-21.41.25:569][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2025.05.25-21.41.25:571][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2025.05.25-21.41.25:571][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2025.05.25-21.41.25:571][486]LogInit: FAudioDevice initialized with ID 54.
+[2025.05.25-21.41.25:571][486]LogAudio: Display: Audio Device (ID: 54) registered with world 'greybox'.
+[2025.05.25-21.41.25:571][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2025.05.25-21.41.25:597][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.41.25:597][486]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.41.25:597][486]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.41.25:598][486]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.41.25
+[2025.05.25-21.41.25:598][486]LogWorld: Bringing up level for play took: 0.001002
+[2025.05.25-21.41.25:601][486]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.05.25-21.41.25:611][486]PIE: Server logged in
+[2025.05.25-21.41.25:615][486]PIE: Play in editor total start time 0.105 seconds.
+[2025.05.25-21.41.35:402][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.41.35:402][230]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.41.35:404][230]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.41.35:408][230]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.41.35:408][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.41.35:411][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.41.35:417][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.41.35:438][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2025.05.25-21.41.35:438][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.05.25-21.41.35:440][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2025.05.25-21.41.35:446][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.25-21.41.35:478][231]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.05.25-21.42.59:615][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9266.065430
+[2025.05.25-21.42.59:673][203]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.42.59:673][203]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9266.115234, Update Interval: 302.490295
+[2025.05.25-21.43.07:399][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.05.25-21.43.07:402][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Greybox/greybox' took 0.027
+[2025.05.25-21.43.07:402][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.43.07:403][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.43.07:403][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-21.43.07:433][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto7
+[2025.05.25-21.43.07:433][122]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player_Auto7AE8EDC32409C8C0ABF8531908FE4AF7E.tmp' to '../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto7.uasset'
+[2025.05.25-21.43.07:433][122]LogFileHelpers: Auto-saving content packages took 0.032
+[2025.05.25-21.45.31:388][133]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.05.25-21.45.34:016][374]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.05.25-21.45.42:254][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.05.25-21.45.43:272][349]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.45.43:282][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.45.43:283][349]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.45.43:284][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001512s)
+[2025.05.25-21.45.43:284][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001544s)
+[2025.05.25-21.45.43:307][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.25-21.45.43:318][349]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.45.43:320][349]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2025.05.25-21.45.43:320][349]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.45.43:321][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.45.43:321][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.45.43:321][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.45.43:321][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.45.43:321][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.45.43:323][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.45.43:348][349]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.45.43:348][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.45.43:348][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.45.43:348][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.45.43:349][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2025.05.25-21.45.43:349][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2025.05.25-21.45.43:351][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2025.05.25-21.45.43:351][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2025.05.25-21.45.43:351][349]LogInit: FAudioDevice initialized with ID 55.
+[2025.05.25-21.45.43:351][349]LogAudio: Display: Audio Device (ID: 55) registered with world 'greybox'.
+[2025.05.25-21.45.43:351][349]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2025.05.25-21.45.43:371][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.45.43:371][349]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.45.43:371][349]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.45.43:372][349]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.45.43
+[2025.05.25-21.45.43:372][349]LogWorld: Bringing up level for play took: 0.001111
+[2025.05.25-21.45.43:375][349]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.05.25-21.45.43:385][349]PIE: Server logged in
+[2025.05.25-21.45.43:390][349]PIE: Play in editor total start time 0.107 seconds.
+[2025.05.25-21.45.50:793][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.45.50:793][930]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.45.50:794][930]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.45.50:798][930]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.45.50:798][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.45.50:801][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.45.50:807][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.45.50:831][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.45.50:831][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2025.05.25-21.45.50:831][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.05.25-21.45.50:833][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2025.05.25-21.45.50:839][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.25-21.45.50:865][931]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.05.25-21.46.15:923][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.46.15:948][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.46.15:948][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.46.15:948][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.46.15:979][926]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.46.15:979][926]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player2F561C8C4F95BDFD465D08877A07D179.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.46.15:985][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.364 ms (total: 3.15 sec)
+[2025.05.25-21.46.16:009][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.46.16:009][926]LogContentValidation: Enabled validators:
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.46.16:009][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.46.16:010][926]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.47.03:110][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.25-21.47.04:553][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.25-21.47.04:578][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.47.04:578][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.47.04:578][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset" SILENT=true
+[2025.05.25-21.47.04:609][946]LogSavePackage: Moving output files for package: /Game/Greybox/Game/Blueprints/gm_player
+[2025.05.25-21.47.04:610][946]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player3F708B1A48E3218C019E2282F11FADD8.tmp' to '../../../../shop_project/Content/Greybox/Game/Blueprints/gm_player.uasset'
+[2025.05.25-21.47.04:616][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.922 ms (total: 3.22 sec)
+[2025.05.25-21.47.04:648][946]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.25-21.47.04:648][946]LogContentValidation: Enabled validators:
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.25-21.47.04:648][946]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.25-21.47.04:648][946]AssetCheck: /Game/Greybox/Game/Blueprints/gm_player Validating asset
+[2025.05.25-21.47.06:629][149]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.47.06:635][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.47.06:635][149]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.47.06:636][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001536s)
+[2025.05.25-21.47.06:636][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001564s)
+[2025.05.25-21.47.06:657][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.25-21.47.06:670][149]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.47.06:671][149]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2025.05.25-21.47.06:672][149]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.47.06:672][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.47.06:672][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.47.06:672][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.47.06:672][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.47.06:672][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.47.06:675][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.47.06:700][149]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.47.06:700][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.47.06:700][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.47.06:700][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.47.06:700][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2025.05.25-21.47.06:700][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2025.05.25-21.47.06:703][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2025.05.25-21.47.06:703][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2025.05.25-21.47.06:703][149]LogInit: FAudioDevice initialized with ID 56.
+[2025.05.25-21.47.06:703][149]LogAudio: Display: Audio Device (ID: 56) registered with world 'greybox'.
+[2025.05.25-21.47.06:703][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2025.05.25-21.47.06:730][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.47.06:730][149]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.47.06:730][149]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.47.06:731][149]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.47.06
+[2025.05.25-21.47.06:731][149]LogWorld: Bringing up level for play took: 0.000974
+[2025.05.25-21.47.06:733][149]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.05.25-21.47.06:740][149]PIE: Server logged in
+[2025.05.25-21.47.06:741][149]PIE: Play in editor total start time 0.107 seconds.
+[2025.05.25-21.47.17:373][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.47.17:373][381]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.47.17:374][381]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.47.17:378][381]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.47.17:379][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.47.17:381][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.47.17:388][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.47.17:412][381]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.47.17:412][381]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2025.05.25-21.47.17:412][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.05.25-21.47.17:415][381]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2025.05.25-21.47.17:421][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.25-21.47.17:466][382]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.05.25-21.48.23:227][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.25-21.48.24:285][399]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.48.24:290][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.48.24:290][399]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.48.24:292][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001523s)
+[2025.05.25-21.48.24:292][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001551s)
+[2025.05.25-21.48.24:315][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.25-21.48.24:327][399]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.48.24:328][399]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2025.05.25-21.48.24:329][399]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.48.24:329][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.48.24:329][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.48.24:329][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.48.24:329][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.48.24:329][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.48.24:331][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.48.24:356][399]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.48.24:357][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.48.24:357][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.48.24:357][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.48.24:357][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.05.25-21.48.24:357][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.05.25-21.48.24:360][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.05.25-21.48.24:360][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.05.25-21.48.24:360][399]LogInit: FAudioDevice initialized with ID 57.
+[2025.05.25-21.48.24:360][399]LogAudio: Display: Audio Device (ID: 57) registered with world 'greybox'.
+[2025.05.25-21.48.24:360][399]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.05.25-21.48.24:389][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.48.24:389][399]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.48.24:389][399]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.48.24:390][399]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.48.24
+[2025.05.25-21.48.24:390][399]LogWorld: Bringing up level for play took: 0.000939
+[2025.05.25-21.48.24:393][399]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.05.25-21.48.24:402][399]PIE: Server logged in
+[2025.05.25-21.48.24:406][399]PIE: Play in editor total start time 0.116 seconds.
+[2025.05.25-21.48.28:773][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.48.28:773][706]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.48.28:774][706]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.48.28:779][706]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.48.28:779][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.48.28:782][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.48.28:788][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.48.28:811][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.48.28:811][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.05.25-21.48.28:811][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.05.25-21.48.28:813][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.05.25-21.48.28:819][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.25-21.48.28:846][707]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.05.25-21.48.32:004][ 71]LogEditorTransaction: Undo Break Pin Links
+[2025.05.25-21.48.32:972][131]LogEditorTransaction: Undo Create Pin Link
+[2025.05.25-21.48.34:070][227]LogEditorTransaction: Undo Delete current selection
+[2025.05.25-21.48.37:403][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9603.716797
+[2025.05.25-21.48.37:470][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.48.37:470][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9603.776367, Update Interval: 337.103790
+[2025.05.25-21.49.39:024][839]LogEditorTransaction: Undo Move Node
+[2025.05.25-21.49.39:595][855]LogEditorTransaction: Undo Paste clipboard contents
+[2025.05.25-21.49.59:653][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.25-21.50.00:671][194]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.50.00:676][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.50.00:676][194]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.50.00:677][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001522s)
+[2025.05.25-21.50.00:677][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001551s)
+[2025.05.25-21.50.00:700][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.05.25-21.50.00:710][194]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.50.00:712][194]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2025.05.25-21.50.00:712][194]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.05.25-21.50.00:712][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.50.00:712][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.50.00:712][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.50.00:713][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.50.00:713][194]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.50.00:713][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.50.00:713][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.50.00:713][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.50.00:713][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.50.00:713][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.50.00:713][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.50.00:715][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.50.00:739][194]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.50.00:740][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.50.00:740][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.50.00:740][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.50.00:740][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.05.25-21.50.00:740][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.05.25-21.50.00:742][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.05.25-21.50.00:742][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.05.25-21.50.00:742][194]LogInit: FAudioDevice initialized with ID 58.
+[2025.05.25-21.50.00:742][194]LogAudio: Display: Audio Device (ID: 58) registered with world 'greybox'.
+[2025.05.25-21.50.00:743][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.05.25-21.50.00:770][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.50.00:770][194]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.50.00:770][194]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.50.00:771][194]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.50.00
+[2025.05.25-21.50.00:771][194]LogWorld: Bringing up level for play took: 0.001043
+[2025.05.25-21.50.00:774][194]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.05.25-21.50.00:783][194]PIE: Server logged in
+[2025.05.25-21.50.00:787][194]PIE: Play in editor total start time 0.111 seconds.
+[2025.05.25-21.50.09:492][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.50.09:492][973]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.50.09:493][973]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.50.09:498][973]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.50.09:498][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.50.09:501][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.50.09:506][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.50.09:531][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.50.09:531][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.05.25-21.50.09:531][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.05.25-21.50.09:533][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.05.25-21.50.09:540][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.25-21.50.09:566][974]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.05.25-21.51.21:376][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.05.25-21.51.22:493][496]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.51.22:499][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.51.22:499][496]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.51.22:500][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001622s)
+[2025.05.25-21.51.22:500][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001653s)
+[2025.05.25-21.51.22:524][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.25-21.51.22:533][496]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.51.22:535][496]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2025.05.25-21.51.22:535][496]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.51.22:535][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.51.22:535][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.51.22:535][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.51.22:535][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.51.22:535][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.51.22:538][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.51.22:562][496]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.51.22:562][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.51.22:562][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.51.22:562][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.51.22:563][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.05.25-21.51.22:563][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.05.25-21.51.22:566][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.05.25-21.51.22:566][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.05.25-21.51.22:566][496]LogInit: FAudioDevice initialized with ID 59.
+[2025.05.25-21.51.22:566][496]LogAudio: Display: Audio Device (ID: 59) registered with world 'greybox'.
+[2025.05.25-21.51.22:566][496]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.05.25-21.51.22:595][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.51.22:595][496]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.51.22:595][496]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.51.22:596][496]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.51.22
+[2025.05.25-21.51.22:596][496]LogWorld: Bringing up level for play took: 0.000976
+[2025.05.25-21.51.22:598][496]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2025.05.25-21.51.22:608][496]PIE: Server logged in
+[2025.05.25-21.51.22:612][496]PIE: Play in editor total start time 0.114 seconds.
+[2025.05.25-21.51.27:942][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.51.27:942][977]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.51.27:943][977]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.51.27:948][977]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.51.27:948][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.51.27:950][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.51.27:957][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.51.27:977][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.51.27:977][977]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.05.25-21.51.27:977][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.05.25-21.51.27:979][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.05.25-21.51.27:986][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.25-21.51.28:018][979]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.05.25-21.51.32:014][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.25-21.51.32:840][505]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.05.25-21.51.32:845][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.25-21.51.32:845][505]LogPlayLevel: Creating play world package: /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.51.32:847][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001504s)
+[2025.05.25-21.51.32:847][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Greybox/greybox.greybox to /Game/Greybox/UEDPIE_0_greybox.greybox (0.001533s)
+[2025.05.25-21.51.32:867][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.25-21.51.32:878][505]LogChaosDD: Creating Chaos Debug Draw Scene for world greybox
+[2025.05.25-21.51.32:879][505]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2025.05.25-21.51.32:880][505]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.25-21.51.32:880][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.25-21.51.32:880][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.25-21.51.32:880][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.25-21.51.32:880][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.25-21.51.32:880][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.25-21.51.32:883][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.25-21.51.32:907][505]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (SteelSeries Arctis 9 Chat)
+[2025.05.25-21.51.32:908][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.25-21.51.32:908][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.25-21.51.32:908][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.25-21.51.32:908][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.05.25-21.51.32:908][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.05.25-21.51.32:910][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.05.25-21.51.32:910][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.05.25-21.51.32:911][505]LogInit: FAudioDevice initialized with ID 60.
+[2025.05.25-21.51.32:911][505]LogAudio: Display: Audio Device (ID: 60) registered with world 'greybox'.
+[2025.05.25-21.51.32:911][505]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.05.25-21.51.32:935][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.51.32:935][505]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.25-21.51.32:935][505]LogLoad: Game class is 'gm_greybox_C'
+[2025.05.25-21.51.32:936][505]LogWorld: Bringing World /Game/Greybox/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2025.05.25-16.51.32
+[2025.05.25-21.51.32:936][505]LogWorld: Bringing up level for play took: 0.001037
+[2025.05.25-21.51.32:939][505]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2025.05.25-21.51.32:948][505]PIE: Server logged in
+[2025.05.25-21.51.32:953][505]PIE: Play in editor total start time 0.108 seconds.
+[2025.05.25-21.51.40:672][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.25-21.51.40:673][188]LogWorld: BeginTearingDown for /Game/Greybox/UEDPIE_0_greybox
+[2025.05.25-21.51.40:673][188]LogSlate: Window 'shop_project Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.25-21.51.40:678][188]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2025.05.25-21.51.40:678][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.51.40:680][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.25-21.51.40:686][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.25-21.51.40:708][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.25-21.51.40:708][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.05.25-21.51.40:708][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.05.25-21.51.40:710][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.05.25-21.51.40:717][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.25-21.51.40:739][189]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2025.05.25-21.53.52:483][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.25-21.53.52:485][290]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Greybox/greybox' took 0.023
+[2025.05.25-21.53.52:485][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Greybox/Game/Blueprints/gm_player] ([2] browsable assets)...
+[2025.05.25-21.53.52:485][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Greybox/Game/Blueprints/gm_player]
+[2025.05.25-21.53.52:485][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Greybox/Game/Blueprints/gm_player" FILE="../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.25-21.53.52:518][290]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto8
+[2025.05.25-21.53.52:518][290]LogSavePackage: Moving '../../../../shop_project/Saved/gm_player_Auto877EFEB50430C984F17D0EF8C2E7A3046.tmp' to '../../../../shop_project/Saved/Autosaves/Game/Greybox/Game/Blueprints/gm_player_Auto8.uasset'
+[2025.05.25-21.53.52:518][290]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.05.25-21.54.54:440][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9980.663086
+[2025.05.25-21.54.55:439][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-21.54.55:439][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9981.329102, Update Interval: 320.572540
+[2025.05.25-22.00.46:440][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10332.522461
+[2025.05.25-22.00.47:440][535]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.25-22.00.47:440][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10333.188477, Update Interval: 310.820038
